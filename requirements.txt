@@ -7,4 +7,5 @@ pytz
 aiohttp
 flask
 cfonts
+Cryptography
 urllib3
