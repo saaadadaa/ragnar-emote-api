@@ -2,6 +2,7 @@ requests
 psutil
 pyjwt
 protobuf
+protobuf_decoder
 pytz
 aiohttp
 flask
